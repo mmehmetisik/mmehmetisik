@@ -50,6 +50,15 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
   <a href="https://matplotlib.org" target="_blank">
     <img src="https://img.shields.io/badge/-Matplotlib-FF7400?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40">
   </a>
+  <a href="https://plotly.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" height="40">
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
+  </a>
 </p>
 
 ## Contact
