@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# <p align="center">Hi👋, I'm Mehmet</p>
 
 <!--
 **mmehmetisik/mmehmetisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Mehmet
+
 
 ## About Me
 
@@ -33,15 +34,14 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
 
 ## Tools and Platforms
 
-- MSSQL
-- Python
-- Scikit-learn
-- Pandas
-- Seaborn
-- Matplotlib
+- ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF7400?style=flat&logo=matplotlib&logoColor=white)
 
 ## Contact
 
 If you'd like to get in touch with me, please reach out via [mehmetisik@hotmail.com](mailto:mmehmetisik@hotmail.com).
-
 
