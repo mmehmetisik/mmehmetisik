@@ -65,7 +65,14 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
   <a href="https://pytorch.org" target="_blank">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
   </a>
+  <a href="https://keras.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="40">
+  </a>
+  <a href="https://opencv.org" target="_blank">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="40">
+  </a>
 </p>
+
 
 ## Contact
 
