@@ -69,4 +69,4 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
 
 ## Contact
 
-If you'd like to get in touch with me, please reach out via [mmehmetisik@hotmail.com](mailto:mmehmetisik@hotmail.com).
+If you'd like to get in touch with me, please reach out via <a href="mailto:mmehmetisik@hotmail.com" target="_blank">![mmehmetisik@hotmail.com](https://img.shields.io/badge/-mehmetisik@hotmail.com-0078D7?style=flat&logo=microsoft-outlook&logoColor=white)</a>.
