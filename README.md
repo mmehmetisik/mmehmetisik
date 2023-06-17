@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, My Name is Mehmet
+# Hello, I'm Mehmet
 
 ## About Me
 
