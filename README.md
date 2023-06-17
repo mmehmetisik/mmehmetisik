@@ -23,10 +23,10 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
 
 <p align="center">
   <a href="https://www.kaggle.com/mehmetisik" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" height="30">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" height="50">
   </a>
   <a href="https://www.linkedin.com/in/mehmetisik4601" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
   </a>
 </p>
 
