@@ -28,6 +28,9 @@ I am Mehmet, a highly motivated individual who is interested in the field of dat
   <a href="https://www.linkedin.com/in/mehmetisik4601" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
   </a>
+  <a href="https://medium.com/@mmehmetisik" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" height="50">
+  </a>
 </p>
 
 ## Statistics
