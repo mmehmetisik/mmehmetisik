@@ -49,3 +49,16 @@ I'm Mehmet. With knowledge and experience in **Data Science** 📈, **Machine Le
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
+  </a>
+  <a href="https://keras.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="40">
+  </a>
+  <a href="https://opencv.org" target="_blank">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="40">
+  </a>
+</p>
+
