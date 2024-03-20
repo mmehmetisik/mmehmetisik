@@ -48,7 +48,6 @@ I'm Mehmet. With knowledge and experience in **Data Science** 📈, **Machine Le
     <img src="https://img.shields.io/badge/-Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" height="40">
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
   </a>
   <a href="https://pytorch.org" target="_blank">
