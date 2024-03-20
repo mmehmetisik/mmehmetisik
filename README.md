@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-I'm Mehmet. With knowledge and experience in Data Science 📈, Machine Learning 🤖, and AWS cloud technologies ☁️, I am a Data Scientist and Analyst 🧠. I have successfully carried out projects 🛠️ that involve analyzing complex data sets and integrating predictive models into business strategies and decision-making processes 🎯. I continuously enhance my cloud computing skills 💻 through projects developed on AWS. Additionally, with a background in Mechanical Engineering 🔩 and Wastewater Treatment 🌊, I have held significant positions at the Ceyhan Wastewater Treatment and Biogas Plant 🏭. I am dedicated to continuous learning and personal development 🌱, always keeping up with the latest technologies and techniques 🔍. Sharing my knowledge and experiences with you on Medium brings me great joy! 😄
+I'm Mehmet. With knowledge and experience in #Data Science 📈, Machine Learning 🤖, and AWS cloud technologies ☁️, I am a Data Scientist and Analyst 🧠. I have successfully carried out projects 🛠️ that involve analyzing complex data sets and integrating predictive models into business strategies and decision-making processes 🎯. I continuously enhance my cloud computing skills 💻 through projects developed on AWS. Additionally, with a background in Mechanical Engineering 🔩 and Wastewater Treatment 🌊, I have held significant positions at the Ceyhan Wastewater Treatment and Biogas Plant 🏭. I am dedicated to continuous learning and personal development 🌱, always keeping up with the latest technologies and techniques 🔍. Sharing my knowledge and experiences with you on Medium brings me great joy! 😄
 
 
 ## Social Media Profiles
