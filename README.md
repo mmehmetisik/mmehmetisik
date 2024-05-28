@@ -61,3 +61,7 @@ I'm Mehmet. With knowledge and experience in **Data Science** 📈, **Machine Le
   </a>
 </p>
 
+## GitHub Stats
+
+![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetisik&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetisik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
