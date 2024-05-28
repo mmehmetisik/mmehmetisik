@@ -21,16 +21,10 @@ I'm Mehmet. With knowledge and experience in **Data Science** 📈, **Machine Le
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetisik&layout=compact&theme=blueberry" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetisik&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetisik&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetisik&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetisik&theme=blueberry" alt="GitHub Streak" />
-</p>
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehmetisik&theme=github" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetisik&theme=default" alt="GitHub Streak" />
 </p>
