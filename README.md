@@ -1,62 +1,86 @@
-# Hi👋, I'm Mehmet
+# Hi 👋, I'm Mehmet ISIK
 
-## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AWS+Cloud+Enthusiast;Mechanical+Engineer" alt="Typing SVG" />
+</div>
 
-I'm Mehmet. With knowledge and experience in **Data Science** 📈, **Machine Learning** 🤖, and **AWS cloud technologies** ☁️, I am a **Data Scientist** and **Analyst** 🧠. I have successfully carried out projects 🛠️ that involve analyzing complex data sets and integrating predictive models into business strategies and decision-making processes 🎯. I continuously enhance my cloud computing skills 💻 through projects developed on **AWS**. Additionally, with a background in **Mechanical Engineering** 🔩 and **Wastewater Treatment** 🌊, I have held significant positions at the **Ceyhan Wastewater Treatment and Biogas Plant** 🏭. I am dedicated to continuous learning and personal development 🌱, always keeping up with the latest technologies and techniques 🔍. Sharing my knowledge and experiences with you on **Medium** brings me great joy! 😄
+## 🚀 About Me
+> Data Scientist with a unique blend of expertise in Machine Learning, AWS Cloud Technologies, and Mechanical Engineering. Currently driving data-driven solutions at Adana ASKI General Directorate.
 
-## Social Media Profiles
+- 🔭 I'm currently working as a **Data Scientist at Adana ASKI**
+- 🌱 I'm currently learning **Data Engineering** at VBO Bootcamp
+- 💼 Previously managed **Ceyhan Wastewater Treatment and Biogas Plant**
+- 📝 I regularly write articles on [Medium](https://medium.com/@mmehmetisik)
+- 💡 I'm passionate about sustainability and environmental technology
 
+## 🛠️ Tech Stack
+
+### Languages & Tools
 <p align="center">
-  <a href="https://www.kaggle.com/mehmetisik" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" height="50">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+### Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Cloud & Big Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+## 📊 Featured Projects
+
+### Machine Learning Projects
+1. 🤖 [Diabetes Prediction](link) - Logistic Regression Model
+2. 🏠 [Real House Price Prediction](link) - Advanced Decision Trees
+3. 👥 [Customer Segmentation](link) - Unsupervised Learning
+4. 🌊 [Water Quality Prediction](link) - ML Models
+5. 💰 [Data Science Salary Prediction](link) - ML Models
+
+### AWS Projects
+1. ☁️ [AWS Cloud Data Analytics Pipeline](link)
+2. 💱 [Real-Time Cryptocurrency Market Analytics](link)
+3. 📊 [Real-Time Data Processing with Kinesis](link)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmehmetisik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehmetisik&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎓 Education & Certifications
+- 📚 Micro MBA - Istanbul Technical University (2021-2022)
+- 🌍 Erasmus - University of Technology Koszalin
+- 🎓 B.S. in Mechanical Engineering - Karabuk University
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetisik4601/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mehmetisik4601" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+  <a href="https://www.kaggle.com/mehmetisik">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://medium.com/@mmehmetisik" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" height="50">
+  <a href="https://medium.com/@mmehmetisik">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
-## Statistics
-
-[![GitHub Followers](https://img.shields.io/github/followers/kullaniciadi?label=Followers&style=social)](https://github.com/kullaniciadi)
-[![Kaggle Followers](https://img.shields.io/badge/Kaggle-Followers-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/mehmetisik)
-
-## Tools and Platforms
-
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="40">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="40">
-  </a>
-  <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="40">
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="40">
-  </a>
-  <a href="https://seaborn.pydata.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" height="40">
-  </a>
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Matplotlib-FF7400?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40">
-  </a>
-  <a href="https://plotly.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Plotly-239120?style=flat&logo=plotly&logoColor=white" alt="Plotly" height="40">
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
-  </a>
-  <a href="https://pytorch.org" target="_blank">
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
-  </a>
-  <a href="https://keras.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="40">
-  </a>
-  <a href="https://opencv.org" target="_blank">
-    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="40">
-  </a>
-</p>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmehmetisik&color=blue" alt="Profile Views" />
+</div>
